@@ -2,4 +2,5 @@
 .angular/
 .vscode/
 dist/
-/src/environments/environment*.ts
+
+.env
